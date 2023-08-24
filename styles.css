@@ -1,0 +1,65 @@
+body{
+    background-image: url(images/beans.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+.menu{
+    background-color: burlywood;
+    width: 80%;
+    min-width: 300px;
+    max-width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    font-family: Impact, serif;
+  }
+
+.established{
+    font-style: italic;
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.flavor{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width:25%;
+}
+hr{
+    border: 2px solid brown;
+}
+h2{
+    font-size: 30px;
+}
+.bottom-line{
+    margin:25px 0;
+}
+
+/* FOOTER */
+footer{
+    font-size: 14px;
+}
+.address{
+    margin-bottom: 5px;
+}
+a{
+    color:black
+}
+a:hover{
+    color: brown;
+}
+
+a:visited{
+    color:aliceblue
+}
